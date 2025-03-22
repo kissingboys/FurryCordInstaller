@@ -1,6 +1,6 @@
-# Vencord Installer
+# 𝓕𝓾𝓻𝓻𝔂𝓒𝓸𝓻𝓭 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓮𝓻
 
-The Vencord Installer allows you to install [Vencord, the cutest Discord Desktop client mod](https://github.com/Vendicated/Vencord)
+𝓣𝓱𝓮 𝓕𝓾𝓻𝓻𝔂𝓒𝓸𝓻𝓭 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓮𝓻 𝓪𝓵𝓵𝓸𝔀𝓼 𝔂𝓸𝓾 𝓽𝓸 𝓲𝓷𝓼𝓽𝓪𝓵𝓵 [𝓕𝓾𝓻𝓻𝔂𝓒𝓸𝓻𝓭, 𝓽𝓱𝓮 𝓯𝓻𝓮𝓪𝓴𝓲𝓮𝓼𝓽 𝓓𝓲𝓼𝓬𝓸𝓻𝓭 𝓓𝓮𝓼𝓴𝓽𝓸𝓹 𝓬𝓵𝓲𝓮𝓷𝓽 𝓶𝓸𝓭](https://github.com/Vendicated/Vencord)
 
 ![image](https://user-images.githubusercontent.com/45497981/226734476-5fb42420-844d-4e27-ae06-4799118e086e.png)
 
